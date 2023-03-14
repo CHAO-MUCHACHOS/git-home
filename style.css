@@ -1,0 +1,76 @@
+html {
+    height: 100%;
+    width: 100%;
+     font-family: "Gill Sans", sans-serif;
+  }
+  .all {
+    background-color: #9dcccd;
+    width: 390px;
+    height: 280px;
+    margin: auto;
+    padding: 7px;
+    border-radius: 15px;
+    
+  }
+  .CC-Details {
+    color: white;
+    background-color: #db6423;
+    padding: 5px 30px;
+    position: relative;
+    top: 10px;
+    left: -30px;
+    width: 300px;
+    margin-bottom: 20px;
+  }
+  .text-top {
+    color: #5e7f88;
+    font-size: 10px;
+    margin: 5px;
+  }
+  input {
+    background-color: #a9d2d2;
+    border: 1px solid #79a1a3;
+    width: 260px;
+  }
+
+  .botom-text input {
+    background-color: #a9d2d2;
+    border: 1px solid #79a1a3;
+    width: 70px;
+    height: 30px;
+  }
+  .botom-text {
+    display: flex;
+  }
+ .flex-text {
+  display: flex;
+ }
+
+ .text-1 {
+  padding: 10px;
+ }
+
+.text-bottom-1 {
+color: #5e7f88;
+    font-size: 10px;
+    margin-left:20px ;
+}
+.text-bottom-2 {
+  color: #5e7f88;
+      font-size: 10px;
+      margin-left:122px ;
+  }
+
+  form {
+  padding: 4px;
+ 
+  }
+  .img {
+    background: url("moon_flag.png") center / cover;
+    position:absolute ;
+    top: 107px;
+    left: 302px;
+    width: 250px;
+    height: 250px;
+  
+  }
